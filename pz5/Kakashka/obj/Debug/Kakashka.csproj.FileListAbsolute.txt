@@ -1,0 +1,10 @@
+C:\Users\Laptopchik\Desktop\oop\Max\pz5\Kakashka\bin\Debug\Kakashka.exe.config
+C:\Users\Laptopchik\Desktop\oop\Max\pz5\Kakashka\bin\Debug\Kakashka.exe
+C:\Users\Laptopchik\Desktop\oop\Max\pz5\Kakashka\bin\Debug\Kakashka.pdb
+C:\Users\Laptopchik\Desktop\oop\Max\pz5\Kakashka\obj\Debug\Kakashka.csproj.AssemblyReference.cache
+C:\Users\Laptopchik\Desktop\oop\Max\pz5\Kakashka\obj\Debug\Kakashka.Form1.resources
+C:\Users\Laptopchik\Desktop\oop\Max\pz5\Kakashka\obj\Debug\Kakashka.Properties.Resources.resources
+C:\Users\Laptopchik\Desktop\oop\Max\pz5\Kakashka\obj\Debug\Kakashka.csproj.GenerateResource.cache
+C:\Users\Laptopchik\Desktop\oop\Max\pz5\Kakashka\obj\Debug\Kakashka.csproj.CoreCompileInputs.cache
+C:\Users\Laptopchik\Desktop\oop\Max\pz5\Kakashka\obj\Debug\Kakashka.exe
+C:\Users\Laptopchik\Desktop\oop\Max\pz5\Kakashka\obj\Debug\Kakashka.pdb
