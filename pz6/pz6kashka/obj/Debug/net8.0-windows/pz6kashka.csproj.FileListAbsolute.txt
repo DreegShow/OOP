@@ -1,0 +1,17 @@
+C:\Users\Laptopchik\Desktop\oop\Max\pz6\pz6kashka\bin\Debug\net8.0-windows\pz6kashka.exe
+C:\Users\Laptopchik\Desktop\oop\Max\pz6\pz6kashka\bin\Debug\net8.0-windows\pz6kashka.deps.json
+C:\Users\Laptopchik\Desktop\oop\Max\pz6\pz6kashka\bin\Debug\net8.0-windows\pz6kashka.runtimeconfig.json
+C:\Users\Laptopchik\Desktop\oop\Max\pz6\pz6kashka\bin\Debug\net8.0-windows\pz6kashka.dll
+C:\Users\Laptopchik\Desktop\oop\Max\pz6\pz6kashka\bin\Debug\net8.0-windows\pz6kashka.pdb
+C:\Users\Laptopchik\Desktop\oop\Max\pz6\pz6kashka\obj\Debug\net8.0-windows\pz6kashka.Form1.resources
+C:\Users\Laptopchik\Desktop\oop\Max\pz6\pz6kashka\obj\Debug\net8.0-windows\pz6kashka.csproj.GenerateResource.cache
+C:\Users\Laptopchik\Desktop\oop\Max\pz6\pz6kashka\obj\Debug\net8.0-windows\pz6kashka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptopchik\Desktop\oop\Max\pz6\pz6kashka\obj\Debug\net8.0-windows\pz6kashka.AssemblyInfoInputs.cache
+C:\Users\Laptopchik\Desktop\oop\Max\pz6\pz6kashka\obj\Debug\net8.0-windows\pz6kashka.AssemblyInfo.cs
+C:\Users\Laptopchik\Desktop\oop\Max\pz6\pz6kashka\obj\Debug\net8.0-windows\pz6kashka.csproj.CoreCompileInputs.cache
+C:\Users\Laptopchik\Desktop\oop\Max\pz6\pz6kashka\obj\Debug\net8.0-windows\pz6kashka.dll
+C:\Users\Laptopchik\Desktop\oop\Max\pz6\pz6kashka\obj\Debug\net8.0-windows\refint\pz6kashka.dll
+C:\Users\Laptopchik\Desktop\oop\Max\pz6\pz6kashka\obj\Debug\net8.0-windows\pz6kashka.pdb
+C:\Users\Laptopchik\Desktop\oop\Max\pz6\pz6kashka\obj\Debug\net8.0-windows\pz6kashka.genruntimeconfig.cache
+C:\Users\Laptopchik\Desktop\oop\Max\pz6\pz6kashka\obj\Debug\net8.0-windows\ref\pz6kashka.dll
+C:\Users\Laptopchik\Desktop\oop\Max\pz6\pz6kashka\obj\Debug\net8.0-windows\pz6kashka.Properties.Resources.resources
